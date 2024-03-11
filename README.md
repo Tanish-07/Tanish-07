@@ -1,4 +1,7 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRkOWw0Zzc0eXZlcHVlMzlmYzRmOXN0MXM1eTd0azRtcWRkdGRrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="animated" style="width: 100%;" />
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGRkOWw0Zzc0eXZlcHVlMzlmYzRmOXN0MXM1eTd0azRtcWRkdGRrNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif" alt="animated" />
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Tanish</h1>
 <h3 align="center">A passionate Android Developer from India</h3>
