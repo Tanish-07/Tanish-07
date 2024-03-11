@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Android , Hackathons**
 
-- 📫 How to reach me **tanish14082004@gmail.com@gmail.com**
+- 📫 How to reach me **tanish14082004@gmail.com**
 
 - ⚡ Fun fact **I am real Extrovert14**
 
