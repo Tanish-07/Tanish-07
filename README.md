@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanish-07&label=Profile%20views&color=0e75b6&style=flat" alt="tanish-07" /> </p>
 
-<p align="left"> <a href="https://twitter.com/__tanish__" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda"  </p>
+<p align="left"> <a href="https://twitter.com/__tanish__" target="blank"><img src="https://img.shields.io/twitter/follow/__tanish__?logo=twitter&style=for-the-badge" alt="Tanish"  </p>
 
 - 🌱 I’m currently learning **Kotlin, JetPack Compose**
 
