@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Tanish</h1>
-<h3 align="center">A passionate Android Developer from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdya3VxMnJqajZ5N2d0MzBoajFjdHJoNGd1bmNwZzR1NHR6bWw0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10mzF0YmVmZNuw/giphy.gif">
 
 
@@ -12,13 +12,6 @@
 
 <p align="left"> <a href="https://twitter.com/__tanish__" target="blank"><img src="https://img.shields.io/twitter/follow/__tanish__?logo=twitter&style=for-the-badge" alt="Tanish"  </p>
 
-- 🌱 I’m currently learning **Kotlin, JetPack Compose**
-
-- 💬 Ask me about **Android , Hackathons**
-
-- 📫 How to reach me **tanish14082004@gmail.com**
-
-- ⚡ Fun fact **I am real Extrovert14**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
