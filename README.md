@@ -5,7 +5,6 @@
 
 <h1 align="center">Hi 👋, I'm Tanish</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdya3VxMnJqajZ5N2d0MzBoajFjdHJoNGd1bmNwZzR1NHR6bWw0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/10mzF0YmVmZNuw/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanish-07&label=Profile%20views&color=0e75b6&style=flat" alt="tanish-07" /> </p>
